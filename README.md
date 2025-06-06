@@ -68,7 +68,7 @@ A compact live GPS tracker using **ESP32-WROOM-32** and **u-blox NEO-6M** GPS mo
 
 ## 📸 Demo Screenshot
 
-![Leaflet Map Screenshot](https://github.com/AnasWagih25/Live_Location_Tracking_GPS/)
+![Leaflet Map Screenshot](https://github.com/AnasWagih25/Live_Location_Tracking_GPS/blob/main/Location%20.jpg)
 
 ---
 
