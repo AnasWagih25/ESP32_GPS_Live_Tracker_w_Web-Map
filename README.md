@@ -52,8 +52,19 @@ A compact live GPS tracker using **ESP32-WROOM-32** and **u-blox NEO-6M** GPS mo
 3. ESP32 connects to your Wi-Fi and prints its IP via Serial.
 4. Visit `http://<ESP_IP>/` in your browser to view the live map.
 5. The map auto-refreshes the marker every 3 seconds with updated GPS coordinates.
+   
 
 ---
+
+
+## 📺 Demo Video
+
+https://github.com/yourusername/esp32-gps-live-tracker/assets/main/demo.mp4
+
+> 🎥 Watch a full walkthrough of the live GPS feed, LCD status display, and Leaflet map updates.
+
+<video src="assets/demo.mp4" controls style="width:100%; max-width:600px; border-radius:8px;"></video>
+
 
 ## 📸 Demo Screenshot
 
