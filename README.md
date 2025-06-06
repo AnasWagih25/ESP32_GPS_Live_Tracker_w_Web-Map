@@ -57,7 +57,7 @@ A compact live GPS tracker using **ESP32-WROOM-32** and **u-blox NEO-6M** GPS mo
 
 ## 📸 Demo Screenshot
 
-![Leaflet Map Screenshot](https://raw.githubusercontent.com/yourusername/yourrepo/main/demo_map.png)
+![Leaflet Map Screenshot](https://github.com/AnasWagih25/Live_Location_Tracking_GPS/)
 
 ---
 
@@ -76,4 +76,4 @@ Install all via the Arduino Library Manager.
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/yourusername/esp32-gps-live-tracker.git
+   git clone https://github.com/AnasWagih25/Live_Location_Tracking_GPS.git
