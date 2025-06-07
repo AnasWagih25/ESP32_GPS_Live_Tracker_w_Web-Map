@@ -75,6 +75,9 @@ A compact live GPS tracker using **ESP32-WROOM-32** and **u-blox NEO-6M** GPS mo
 ![Enclosure Body Design](https://github.com/AnasWagih25/ESP32_GPS_Live_Tracker_w_Web-Map/blob/main/Enclosure.png)
 
 ---
+## MADE BY
+
+Anas Wagih X Marawan Ghazy
 
 ## 🔧 Libraries Used
 
