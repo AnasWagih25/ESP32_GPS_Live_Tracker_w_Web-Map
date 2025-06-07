@@ -48,7 +48,7 @@ A compact live GPS tracker using **ESP32-WROOM-32** and **u-blox NEO-6M** GPS mo
 1. ESP32 reads live coordinates from the NEO-6M GPS module.
 2. LCD shows:
    - `Waiting for GPS` when fix not acquired
-   - `GPS is ready` when location is locked
+   - `GPS Connected` when location is locked
 3. ESP32 connects to your Wi-Fi and prints its IP via Serial.
 4. Visit `http://<ESP_IP>/` in your browser to view the live map.
 5. The map auto-refreshes the marker every 3 seconds with updated GPS coordinates.
